@@ -31,7 +31,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-header h1 .seo {
+header h1 .horiseon-markup {
     color: #d9dcd6;
     background-color: #2a607c;
 }
@@ -57,7 +57,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-.hero { /* main splash-page */
+.background-image { /* main splash-page */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
