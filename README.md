@@ -19,7 +19,11 @@ Click live URL here: https://omair-muhi.github.io/fsf-wk1-hwork/
 * [W3Schools](https://www.w3schools.com)
 * [CSS-Tricks](https://css-tricks.com)
 * [CSS-Unofficial Style Guide](https://courses.cs.washington.edu/courses/cse154/17au/styleguide/index.html#about)
+<<<<<<< HEAD
 * [CSS Semantics: Best Practices](https://robdodson.me/css-semantics/)
+=======
+* [CSS Semantics: Best Practices] (https://robdodson.me/css-semantics/)
+>>>>>>> 7fa95d761d009edb2da40748b53a59fea652321e
 
 ## License
 
